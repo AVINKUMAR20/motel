@@ -1,2 +1,1 @@
-# motel
-motel is very enjoyable place in any  places
+# Hotel-Booking-web-page-Responsive-web-page.
